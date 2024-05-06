@@ -51,8 +51,8 @@ main {
 .content {
   width: min(30vw,400px);
   position: absolute;
-  top: 50%;
-  left: 3rem;
+  top: 75%;
+  left: 40%;
   transform: translateY(-50%);
   font: 400 0.85rem helvetica,sans-serif;
   color: white;
@@ -94,7 +94,7 @@ main {
 
 .nav {
   position: absolute;
-  bottom: 2rem;
+  bottom: 15%;
   left: 50%;
   transform: translateX(-50%);
   z-index: 5;
